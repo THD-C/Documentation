@@ -13,6 +13,10 @@ THD(c) is a microservices application to practice crypto currency trading
     - [Orders Service](/Docs/Services/Order_Service.md)
     - [PostgreSQL](/Docs/Services/Postgres.md)
     - [MongoDB](/Docs/Services/Mongo.md)
-3. Project Contributions:
+3. Continuous Integration / Continuous Deployment/Delivery:
+    - [Tests](/Docs/CI/README.md#tests)
+    - [Releases](/Docs/CI/README.md#releases)
+    - [Deployment](/Docs/CI/README.md#deployment)
+4. Project Contributions:
     - [Overall](/Docs/Contributions/Contributions_Overall.md)
     - [Repository level](/Docs/Contributions/Contributions_per_Repository.md)
