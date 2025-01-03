@@ -2,6 +2,10 @@ import requests
 import os
 from src.Models.ContributorActivity import Repository
 from src.Models.GitHubRepository import GitHubRepository
+from dotenv import load_dotenv
+
+load_dotenv()
+
 
 def get_contributors_stats(repo_name: str) -> Repository:
     status_code = 0
