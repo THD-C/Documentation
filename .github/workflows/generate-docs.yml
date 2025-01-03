@@ -1,0 +1,50 @@
+name: Auto-generate docs
+
+on:
+  workflow_dispatch:
+
+
+jobs:
+  Generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install -r ./Scripts/ContributionSummaryGenerator/requirements.txt
+      
+      - name: Setup env file
+        run: |
+          echo "GITHUB_TOKEN=${{ secrets.THDCPL_TOKEN }}" > .env
+
+      - name: Generate contribution summary
+        run: |
+          python ./Scripts/ContributionSummaryGenerator/main.py
+
+      - name: Get Services' READMEs
+        shell: pwsh
+        run: |
+          ./Scripts/GetServicesReadmes.ps1
+
+      - name: Check if there are any changes
+        id: diff
+        run: |
+          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and Push charts
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "github-actions"
+    
+          git add .
+          git commit -m "update docs"
+          git push
