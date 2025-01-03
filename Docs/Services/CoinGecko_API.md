@@ -1,4 +1,4 @@
-# [CoinGecko API]
+# [CoinGecko API](https://github.com/THD-C/CoinGecko_API)
 Pobiera, udostępnia na zewnątrz poprzez gRPC, cachuje oraz zarządza danymi z CoinGecko.
 
 # 1. Opis funkcji

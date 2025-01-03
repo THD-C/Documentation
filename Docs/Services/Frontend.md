@@ -1,4 +1,4 @@
-# [THD(C) - Frontend (UI)]
+# [THD(C) - Frontend (UI)](https://github.com/THD-C/Frontend)
 
 Warstwa prezentacji aplikacji [THD(C)](https://github.com/THD-C)
 

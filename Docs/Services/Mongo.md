@@ -1,4 +1,4 @@
-# [Mongo]
+# [Mongo](https://github.com/THD-C/Mongo)
 
 MongoDB container, which communicates with [Mongo Manager](https://github.com/THD-C/Mongo_Manager).
 On startup inserts necessary data needed for system to function properly.
