@@ -17,6 +17,10 @@ THD(c) is a microservices application to practice crypto currency trading
     - [Tests](/Docs/CI/README.md#tests)
     - [Releases](/Docs/CI/README.md#releases)
     - [Deployment](/Docs/CI/README.md#deployment)
-4. Project Contributions:
+4. System's Observability:
+    - [Metrics](/Docs/Observability/README.md#metrics)
+    - [Traces](/Docs/Observability/README.md#traces)
+    - [Logs](/Docs/Observability/README.md#logs)
+5. Project Contributions:
     - [Overall](/Docs/Contributions/Contributions_Overall.md)
     - [Repository level](/Docs/Contributions/Contributions_per_Repository.md)
