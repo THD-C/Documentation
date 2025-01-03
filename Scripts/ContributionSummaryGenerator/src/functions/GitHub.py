@@ -19,7 +19,7 @@ def get_contributors_stats(repo_name: str) -> Repository:
             },
         )
         status_code = response.status_code
-        print(status_code)
+        print(f"{status_code} - {repo_name}")
         
     return Repository(**{"name": repo_name, "activity": response.json()})
 
