@@ -32,7 +32,7 @@ jobs:
       - name: Get Services' READMEs
         shell: pwsh
         run: |
-          ./Scripts/GetServicesReadmes.ps1
+          ./Scripts/Get-ServicesReadmes.ps1
 
       - name: Check if there are any changes
         id: diff
