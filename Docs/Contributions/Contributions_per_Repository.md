@@ -26,9 +26,9 @@
 ## Frontend
 ```diff
 @@ GringoXY @@
-++ 120_755
--- 34_242
-! 45 commits
+++ 124_315
+-- 37_157
+! 47 commits
 
 @@ StanislawHornaGitHub @@
 ++ 172
