@@ -88,9 +88,9 @@
 ## Frontend_API
 ```diff
 @@ rukaSUKII @@
-++ 8_013
--- 4_574
-! 76 commits
+++ 8_251
+-- 4_575
+! 77 commits
 
 @@ StanislawHornaGitHub @@
 ++ 702
