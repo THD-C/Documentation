@@ -114,9 +114,9 @@
 ## CoinGecko_API
 ```diff
 @@ abienias97 @@
-++ 1_492
--- 464
-! 30 commits
+++ 1_640
+-- 492
+! 31 commits
 
 @@ StanislawHornaGitHub @@
 ++ 450
