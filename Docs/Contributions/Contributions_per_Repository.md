@@ -26,9 +26,9 @@
 ## Frontend
 ```diff
 @@ GringoXY @@
-++ 125_805
--- 37_213
-! 48 commits
+++ 126_338
+-- 37_310
+! 49 commits
 
 @@ StanislawHornaGitHub @@
 ++ 172
@@ -88,9 +88,9 @@
 ## Frontend_API
 ```diff
 @@ rukaSUKII @@
-++ 8_251
+++ 8_253
 -- 4_575
-! 77 commits
+! 79 commits
 
 @@ StanislawHornaGitHub @@
 ++ 702
@@ -98,9 +98,9 @@
 ! 14 commits
 
 @@ GringoXY @@
-++ 17
+++ 21
 -- 5
-! 4 commits
+! 5 commits
 
 ```
 ## GH_Actions
@@ -169,6 +169,11 @@
 ++ 6
 -- 3
 ! 3 commits
+
+@@ GringoXY @@
+++ 2
+-- 2
+! 1 commits
 
 ```
 ## Mongo_Manager
