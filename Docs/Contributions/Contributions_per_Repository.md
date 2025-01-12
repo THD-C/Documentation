@@ -26,9 +26,9 @@
 ## Frontend
 ```diff
 @@ GringoXY @@
-++ 126_386
--- 37_310
-! 51 commits
+++ 126_857
+-- 37_694
+! 53 commits
 
 @@ StanislawHornaGitHub @@
 ++ 172
@@ -88,9 +88,9 @@
 ## Frontend_API
 ```diff
 @@ rukaSUKII @@
-++ 8_253
--- 4_575
-! 79 commits
+++ 8_327
+-- 4_598
+! 82 commits
 
 @@ StanislawHornaGitHub @@
 ++ 702
@@ -127,9 +127,9 @@
 ## The_THDc_App
 ```diff
 @@ StanislawHornaGitHub @@
-++ 1_710
--- 591
-! 64 commits
+++ 1_714
+-- 593
+! 66 commits
 
 @@ GringoXY @@
 ++ 606
@@ -203,9 +203,9 @@
 ## Order_Service
 ```diff
 @@ siemaEko @@
-++ 4_389
--- 605
-! 62 commits
+++ 4_421
+-- 612
+! 69 commits
 
 @@ StanislawHornaGitHub @@
 ++ 47
