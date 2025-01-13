@@ -26,9 +26,9 @@
 ## Frontend
 ```diff
 @@ GringoXY @@
-++ 126_857
--- 37_694
-! 53 commits
+++ 127_048
+-- 37_998
+! 54 commits
 
 @@ StanislawHornaGitHub @@
 ++ 172
@@ -88,9 +88,9 @@
 ## Frontend_API
 ```diff
 @@ rukaSUKII @@
-++ 8_327
--- 4_598
-! 82 commits
+++ 8_333
+-- 4_601
+! 83 commits
 
 @@ StanislawHornaGitHub @@
 ++ 702
@@ -171,9 +171,9 @@
 ! 3 commits
 
 @@ GringoXY @@
-++ 2
--- 2
-! 1 commits
+++ 3
+-- 3
+! 2 commits
 
 ```
 ## Mongo_Manager
@@ -203,9 +203,9 @@
 ## Order_Service
 ```diff
 @@ siemaEko @@
-++ 4_421
+++ 4_427
 -- 612
-! 69 commits
+! 70 commits
 
 @@ StanislawHornaGitHub @@
 ++ 47
