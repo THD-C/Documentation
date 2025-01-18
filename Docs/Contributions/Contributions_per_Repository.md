@@ -88,9 +88,9 @@
 ## Frontend_API
 ```diff
 @@ rukaSUKII @@
-++ 8_333
--- 4_601
-! 83 commits
+++ 8_342
+-- 4_605
+! 84 commits
 
 @@ StanislawHornaGitHub @@
 ++ 702
@@ -203,9 +203,9 @@
 ## Order_Service
 ```diff
 @@ siemaEko @@
-++ 4_427
--- 612
-! 70 commits
+++ 4_431
+-- 613
+! 71 commits
 
 @@ StanislawHornaGitHub @@
 ++ 47
