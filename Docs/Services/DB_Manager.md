@@ -24,8 +24,6 @@ Microservice is optimized for scalability and observability, making it ideal for
 | Delete         | [ReqDeleteUser](/Docs/user.md#reqdeleteuser)         | [ResultResponse](/Docs/user.md#resultresponse) | Delete user                                        |
 | ChangePassword | [ChangePass](/Docs/user.md#changepass)               | [ResultResponse](/Docs/user.md#resultresponse) | Change user password                               |
 | GetAllUsers    | [AllUsersRequest](/Docs/user.md#allusersrequest)     | [UsersList](/Docs/user.md#userslist)           | Returns all registered users (used only by admins) |
-<br>
-<br>
 
 ## Wallets
 
@@ -58,8 +56,6 @@ Microservice is optimized for scalability and observability, making it ideal for
 | GetPayments       | [UserID](/Docs/payment.md#userid)                 | [PaymentList](/Docs/payment.md#paymentlist)       | Get all payments associated with provided User ID |
 | GetPayment        | [PaymentID](/Docs/payment.md#paymentid)           | [PaymentDetails](/Docs/payment.md#paymentdetails) | Get single payment based on Payment ID            |
 | GetUnpaidPayments | [UnpaidSessions](/Docs/payment.md#unpaidsessions) | [PaymentList](/Docs/payment.md#paymentlist)       | Get all unpaid                                    |
-<br>
-<br>
 
 ## Transaction
 
