@@ -216,9 +216,9 @@
 ## mobile
 ```diff
 @@ rukaSUKII @@
-++ 978
--- 99
-! 7 commits
+++ 1_345
+-- 278
+! 15 commits
 
 @@ GringoXY @@
 ++ 5_216
