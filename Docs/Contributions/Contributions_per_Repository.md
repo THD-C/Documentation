@@ -98,9 +98,9 @@
 ! 14 commits
 
 @@ GringoXY @@
-++ 34
--- 14
-! 6 commits
+++ 43
+-- 19
+! 13 commits
 
 ```
 ## GH_Actions
@@ -216,14 +216,14 @@
 ## mobile
 ```diff
 @@ rukaSUKII @@
-++ 3_255
--- 586
-! 41 commits
+++ 3_495
+-- 631
+! 48 commits
 
 @@ GringoXY @@
-++ 5_598
--- 85
-! 5 commits
+++ 5_948
+-- 113
+! 6 commits
 
 @@ siemaEko @@
 ++ 854

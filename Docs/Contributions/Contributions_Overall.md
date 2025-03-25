@@ -7,22 +7,22 @@
 -- 11_515
 
 @@ rukaSUKII @@ 
-! 140 commits
+! 147 commits
 # 4 repositories
-++ 11_759
--- 5_201
+++ 11_999
+-- 5_246
+
+@@ GringoXY @@ 
+! 78 commits
+# 6 repositories
+++ 134_185
+-- 39_383
 
 @@ siemaEko @@ 
 ! 76 commits
 # 3 repositories
 ++ 5_497
 -- 626
-
-@@ GringoXY @@ 
-! 70 commits
-# 6 repositories
-++ 133_826
--- 39_350
 
 @@ abienias97 @@ 
 ! 41 commits
