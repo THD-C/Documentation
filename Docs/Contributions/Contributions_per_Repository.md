@@ -220,14 +220,19 @@
 -- 644
 ! 50 commits
 
+@@ StanislawHornaGitHub @@
+++ 1_128
+-- 413
+! 16 commits
+
+@@ siemaEko @@
+++ 2_956
+-- 1_089
+! 9 commits
+
 @@ GringoXY @@
 ++ 7_492
 -- 626
 ! 7 commits
-
-@@ siemaEko @@
-++ 854
--- 12
-! 1 commits
 
 ```

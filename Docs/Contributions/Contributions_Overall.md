@@ -1,10 +1,10 @@
 # Overall Contributions to THD(c) app per User
 ```diff
 @@ StanislawHornaGitHub @@ 
-! 401 commits
-# 18 repositories
-++ 23_617
--- 11_515
+! 417 commits
+# 19 repositories
+++ 24_745
+-- 11_928
 
 @@ rukaSUKII @@ 
 ! 149 commits
@@ -12,17 +12,17 @@
 ++ 12_026
 -- 5_259
 
+@@ siemaEko @@ 
+! 84 commits
+# 3 repositories
+++ 7_599
+-- 1_703
+
 @@ GringoXY @@ 
 ! 79 commits
 # 6 repositories
 ++ 135_729
 -- 39_896
-
-@@ siemaEko @@ 
-! 76 commits
-# 3 repositories
-++ 5_497
--- 626
 
 @@ abienias97 @@ 
 ! 41 commits
