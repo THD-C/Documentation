@@ -12,17 +12,17 @@
 ++ 12_026
 -- 5_259
 
+@@ GringoXY @@ 
+! 91 commits
+# 7 repositories
+++ 135_863
+-- 39_965
+
 @@ siemaEko @@ 
 ! 84 commits
 # 3 repositories
 ++ 7_599
 -- 1_703
-
-@@ GringoXY @@ 
-! 79 commits
-# 6 repositories
-++ 135_729
--- 39_896
 
 @@ abienias97 @@ 
 ! 47 commits

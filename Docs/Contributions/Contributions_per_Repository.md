@@ -26,9 +26,9 @@
 ## Frontend
 ```diff
 @@ GringoXY @@
-++ 127_584
--- 38_644
-! 55 commits
+++ 127_588
+-- 38_647
+! 58 commits
 
 @@ StanislawHornaGitHub @@
 ++ 172
@@ -144,6 +144,11 @@
 -- 299
 ! 10 commits
 
+@@ GringoXY @@
+++ 0
+-- 4
+! 1 commits
+
 ```
 ## Proto_Python
 ```diff
@@ -230,15 +235,15 @@
 -- 417
 ! 19 commits
 
+@@ GringoXY @@
+++ 7_622
+-- 688
+! 15 commits
+
 @@ siemaEko @@
 ++ 2_956
 -- 1_089
 ! 9 commits
-
-@@ GringoXY @@
-++ 7_492
--- 626
-! 7 commits
 
 @@ abienias97 @@
 ++ 633
